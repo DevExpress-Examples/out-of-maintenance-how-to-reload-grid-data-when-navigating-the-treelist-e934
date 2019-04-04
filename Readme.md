@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/SyncWithGridOnUpdatePanel/Default.aspx) (VB: [Default.aspx](./VB/SyncWithGridOnUpdatePanel/Default.aspx))
-* [Default.aspx.cs](./CS/SyncWithGridOnUpdatePanel/Default.aspx.cs) (VB: [Default.aspx](./VB/SyncWithGridOnUpdatePanel/Default.aspx))
+* [Default.aspx.cs](./CS/SyncWithGridOnUpdatePanel/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/SyncWithGridOnUpdatePanel/Default.aspx.vb))
 <!-- default file list end -->
 # How to reload grid data when navigating the TreeList
 
